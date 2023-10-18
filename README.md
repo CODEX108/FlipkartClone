@@ -12,17 +12,18 @@ This project is a simple Flipkart clone built using the MERN (MongoDB, Express, 
 ## Technologies Used
 
 - **Frontend**:
-  - React
-  - Redux for state management
-  - Material-UI for UI components
-  - Axios for API requests
+  - ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+  - ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) for state management
+  - ![](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white) for UI components
+  - ![](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)  for API requests
 
 - **Backend**:
-  - Node.js
-  - Express.js
-  - MongoDB for data storage
+  - ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+) ![](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white
+) ![](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  - ![](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  - ![](https://img.shields.io/badge/JWT-FFFFFF?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=black) JSON Web Tokens for user authentication
   - Mongoose for database management
-  - JSON Web Tokens (JWT) for user authentication
 
 ## Installation
 
